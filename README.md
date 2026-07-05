@@ -1,16 +1,31 @@
-## Hi there 👋
+# Paul W. Marshall
 
-<!--
-**Paul-W-Marshall/Paul-W-Marshall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder building **Quetra — The Personal Control Layer for AI**.
 
-Here are some ideas to get you started:
+Most AI interfaces start with a prompt box. Quetra starts one layer earlier: arrival, calibration, chat, navigation, and user-governed state.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build AI-native systems for privacy, agency, governance, civic infrastructure, and resilient coordination. I use coding agents heavily, especially Replit Agent, with architecture, product specification, testing direction, and documentation led by me.
+
+## Current focus
+
+**Quetra**  
+The Personal Control Layer for AI.  
+A live prototype with a breathing Orb, Commune / Attune / Navigate, AI chat, Marshall Triangle calibration, and user-governed state.
+
+## Selected builds
+
+- **Quetra** — AI interface for arrival, calibration, chat, navigation, and user control.
+- **HushBrief** — private AI document briefing for sensitive material.
+- **QuitGPT** — AI alternatives directory and migration guide.
+- **VoteHawaii** — statewide civic information portal for the 2026 Hawaiʻi election cycle.
+- **Nexus** — human-guided autonomous agent collective with onchain identity and governance.
+- **QSafe** — post-quantum provenance and custody infrastructure.
+- **Marshall Triangle / Harmony Index** — framework for privacy, performance, and personalization calibration.
+- **Prime Directives** — public ethical guidance for builders of autonomous, intelligent, and life-affecting systems.
+
+## Links
+
+- Quetra: https://quetra.ai
+- App: https://app.quetra.ai
+- Personal site: https://paulwmarshall.com
+- LinkedIn: https://www.linkedin.com/in/paul-w-marshall-8063a7347/
